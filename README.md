@@ -1,5 +1,4 @@
 # s25-bootcamp-countey
-## Project 6
 
 <p align="center">
   <img src="assets/app.gif" alt="App Recording" width="500">
